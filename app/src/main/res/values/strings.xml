@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Medical Management</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="yeay_welcome_back">Yeay! Welcome Back</string>
+    <string name="once_again_you_login_successfully_into_medidoc_app">Once again you login successfully into medidoc app</string>
+    <string name="go_to_home">Go to home</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="your_account_has_been_successfully_registered">Your account has been successfully registered</string>
+</resources>
